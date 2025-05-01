@@ -20,3 +20,8 @@ Q3_math = df['Математика'].quantile(0.75)
 - можно также попробовать рассчитать IQR
 
 6. Вычислите стандартное отклонение
+
+------
+![image](https://github.com/user-attachments/assets/d25688e5-5bdf-4e8d-b112-0f96466a6be6)
+
+
